@@ -1,4 +1,4 @@
-update=Mon 24 Aug 2015 06:35:06 PM ART
+update=Mon 24 Aug 2015 06:58:34 PM ART
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,16 @@ LibName33=lib/TXB0108
 LibName34=lib/TRASF_UNIP
 LibName35=lib/93c56
 LibName36=lib/SMD_Sealing_Glass_Crystal
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=doc/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
