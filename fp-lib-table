@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name MicroUSB-ZX62AB)(type Legacy)(uri ${KIPRJMOD}/footprints/MicroUSB-ZX62AB.mod)(options "")(descr ""))
+  (lib (name opendous)(type Legacy)(uri ${KIPRJMOD}/footprints/opendous.mod)(options "")(descr ""))
+  (lib (name riaconnect)(type Legacy)(uri ${KIPRJMOD}/footprints/riaconnect.mod)(options "")(descr ""))
+  (lib (name ref-packages)(type Legacy)(uri ${KIPRJMOD}/footprints/ref-packages.mod)(options "")(descr ""))
+  (lib (name oaa_smd_qfp)(type Legacy)(uri ${KIPRJMOD}/footprints/oaa_smd_qfp.mod)(options "")(descr ""))
+  (lib (name MF-SM030)(type Legacy)(uri ${KIPRJMOD}/footprints/MF-SM030.mod)(options "")(descr ""))
+)
