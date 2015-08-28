@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-17 BZR 5377)-product   date = Tue 25 Aug 2015 08:19:25 PM ART
+Cmp-Mod V01 Created by Cvpcb (2015-01-17 BZR 5377)-product   date = Fri 28 Aug 2015 02:36:29 PM ART
 
 BeginCmp
 TimeStamp = /52C1CF84;
@@ -215,6 +215,34 @@ TimeStamp = /55DC96F3;
 Reference = P5;
 ValeurCmp = Vout;
 IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E0C75E;
+Reference = P6;
+ValeurCmp = MH;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E0D225;
+Reference = P7;
+ValeurCmp = MH;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E0D26E;
+Reference = P8;
+ValeurCmp = MH;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E0D2B4;
+Reference = P9;
+ValeurCmp = MH;
+IdModule  = Connect:1pin;
 EndCmp
 
 BeginCmp
