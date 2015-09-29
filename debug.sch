@@ -41,7 +41,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Info II Stick"
+Title "FT2232H Debugger"
 Date "21 aug 2015"
 Rev "1.0"
 Comp ""
